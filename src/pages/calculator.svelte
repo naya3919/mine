@@ -1,1 +1,5 @@
-<p>꼐산기</p>
+<script>
+  import Calculator from '../components/Calculator.svelte';
+</script>
+
+<Calculator />
